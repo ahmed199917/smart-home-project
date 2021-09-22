@@ -20,3 +20,4 @@ flutter:
         pluginClass: EsptouchPlugin
       ios:
         pluginClass: EsptouchPlugin
+
